@@ -1,7 +1,7 @@
 # ML_Kiva_Crowdfunding
 ## Machine Learning I Final Project
 
-#### Aim
+### Aim
 "Kiva.org is an online crowdfunding platform to extend financial services to poor and financially excluded people around the world". Kiva has provided data on their world-wide financial loans over the past two years on kaggle.com. Our aim is to apply machine learning methods to gain insight into how Kiva determines the amount (USD) and repayment interval type (monthly, bullet, or irregular) of each loan. Throughout this project, we hope to highlight the most important features in determining how Kiva administers loans. Given the number of data points in the original dataset, we have decided to focus on Latin American countries out of personal interest and to narrow our focus. Kiva provides features such as number of lenders, borrower's gender(s), loan use activity, and more. Our goals in this project are to build models to predict the loan amount (regression) and the repayment interval type (classification). This information can inform both lenders and borrowers in the Kiva crowdfunding process. To achieve these goals we will preprocess the data (merging, cleaning, handling identifiers and missing values, etc.), perform exploratory data analyses, split the data into training, validation, and testing sets, chose a variety of models for both regression and classification problems, and fine-tune the hyperparameters of those models.
 
 ### Results
